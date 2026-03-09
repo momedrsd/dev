@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "admin-001",
+      "username": "admin",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "role": "admin",
+      "name": "Administrateur",
+      "active": true
+    },
+    {
+      "id": "president-001",
+      "username": "president",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "role": "president",
+      "name": "Président de la Commission",
+      "active": true
+    },
+    {
+      "id": "judge-001",
+      "username": "juge1",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "role": "judge",
+      "name": "Juge 1",
+      "active": true
+    },
+    {
+      "id": "judge-002",
+      "username": "juge2",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "role": "judge",
+      "name": "Juge 2",
+      "active": true
+    },
+    {
+      "id": "judge-003",
+      "username": "juge3",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "role": "judge",
+      "name": "Juge 3",
+      "active": true
+    },
+    {
+      "id": "judge-004",
+      "username": "juge4",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "role": "judge",
+      "name": "Juge 4",
+      "active": true
+    },
+    {
+      "id": "public-001",
+      "username": "public",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "role": "public",
+      "name": "Écran Public",
+      "active": true
+    }
+  ]
+}

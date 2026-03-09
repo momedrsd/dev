@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="theme-color" content="#0D1B0F">
+  <title>مسابقة تلاوة القرآن — Édition 9</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <!-- Google Fonts with fallback -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Cairo:wght@300;400;600;700;900&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div id="app">
+    <!-- Loading screen -->
+    <div style="
+      min-height:100vh;
+      display:flex;
+      flex-direction:column;
+      align-items:center;
+      justify-content:center;
+      background:radial-gradient(ellipse at center, #1A2E1C 0%, #0D1B0F 70%);
+      color:#C9A84C;
+      font-family:serif;
+      gap:16px;
+    ">
+      <div style="font-size:5rem;filter:drop-shadow(0 0 20px rgba(201,168,76,0.6));">☪</div>
+      <div style="font-size:2rem;font-family:'Amiri',serif;text-align:center;">
+        المسابقة الوطنية لتلاوة القرآن الكريم
+      </div>
+      <div style="color:#A89860;font-size:0.9rem;">Chargement en cours...</div>
+      <div style="
+        width:48px;height:48px;
+        border:3px solid rgba(201,168,76,0.2);
+        border-top-color:var(--gold,#C9A84C);
+        border-radius:50%;
+        animation:spin 1s linear infinite;
+      "></div>
+    </div>
+  </div>
+  <style>
+    @keyframes spin { to { transform: rotate(360deg); } }
+  </style>
+  <!-- Socket.IO from server -->
+  <script src="/socket.io/socket.io.js"></script>
+  <!-- App -->
+  <script src="/js/app.js"></script>
+</body>
+</html>

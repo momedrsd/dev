@@ -1,0 +1,17 @@
+Ce dossier doit contenir les images des pages du Coran (lecture Warsh).
+
+Nommage requis:
+  page_001.jpg → Page 1
+  page_002.jpg → Page 2
+  ...
+  page_604.jpg → Page 604
+
+Format recommandé: JPG
+Résolution recommandée: 800x1100 pixels minimum
+
+Sources pour obtenir les images:
+1. Logiciel Ayat (Université Roi Saoud): https://quran.ksu.edu.sa
+2. Tanzil.net
+3. Scanner un Mushaf physique
+
+IMPORTANT: Les images ne sont PAS incluses dans ce package pour des raisons de droits.

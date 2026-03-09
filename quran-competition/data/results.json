@@ -1,0 +1,74 @@
+{
+  "competition": {
+    "edition": 9,
+    "title": "Compétition Nationale de Récitation du Coran",
+    "readings": [
+      "Warsh",
+      "Hafs"
+    ],
+    "status": "active",
+    "currentParticipantId": null,
+    "participantHasHand": false,
+    "resultsVisible": false,
+    "timerDuration": 300,
+    "timerRunning": false,
+    "timerEndTime": null,
+    "timerPresets": [
+      60,
+      120,
+      180,
+      300,
+      600
+    ],
+    "currentPage": 1,
+    "criteria": [
+      {
+        "key": "makhaarij",
+        "label": "المخارج",
+        "max": 3
+      },
+      {
+        "key": "sifaat",
+        "label": "الصفات",
+        "max": 3
+      },
+      {
+        "key": "mudood",
+        "label": "المدود",
+        "max": 3
+      },
+      {
+        "key": "tafkhim",
+        "label": "التفخيم والترقيق والإمالات",
+        "max": 3
+      },
+      {
+        "key": "noon_saakin",
+        "label": "أحكام النون الساكنة والمشددة",
+        "max": 2
+      },
+      {
+        "key": "meem_saakin",
+        "label": "أحكام الميم الساكنة والمشددة",
+        "max": 2
+      },
+      {
+        "key": "waqf",
+        "label": "الوقف والابتداء",
+        "max": 2
+      },
+      {
+        "key": "adaa",
+        "label": "الأداء",
+        "max": 2
+      }
+    ],
+    "lieu": "",
+    "date_debut": "",
+    "date_fin": ""
+  },
+  "participants": [],
+  "scores": [],
+  "sessions": {},
+  "final_scores": []
+}

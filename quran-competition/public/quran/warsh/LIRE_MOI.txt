@@ -1,0 +1,11 @@
+Placez ici les 604 images du Coran — Lecture WARSH (رواية ورش عن نافع)
+
+Nommage requis:
+  page_001.jpg → Page 1
+  page_002.jpg → Page 2
+  ...
+  page_604.jpg → Page 604
+
+Format: JPG — Résolution recommandée: 800x1100px minimum
+
+Source: Logiciel Ayat → choisir "رواية ورش عن نافع"
